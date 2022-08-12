@@ -6,3 +6,9 @@ The game itself is recreated using PyGame
 
 ![Snapshot](images/1.png)
 ![Snaoshot](images/2.png)
+
+# How to run the program
+Make sure all of the dependecies are installed (NEAT, PyGame etc.)
+```
+python main.py
+```
